@@ -1,5 +1,5 @@
 # **observerPattern**
-## Real-time News Subscription Service
+# Real-time News Subscription Service
 
 ### Background: 
 * You're tasked with designing a real-time news subscription service for a media company. The system needs to notify subscribers about breaking news as soon as it's published by the news agency.
@@ -36,5 +36,7 @@ The system should allow for dynamic subscription updates. Subscribers can subscr
 
 * The system should be scalable to handle a growing number of subscribers without compromising performance.
 * Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
+
+# UML Diagram
 
 
