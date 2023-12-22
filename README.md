@@ -39,5 +39,6 @@ The system should allow for dynamic subscription updates. Subscribers can subscr
 * Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
 
 # UML Diagram
+![image](https://github.com/AmityJhames/observerPattern/assets/143429028/6f40cbfa-f57d-43fe-8383-5d17178016cb)
 
 
